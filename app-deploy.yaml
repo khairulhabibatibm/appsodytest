@@ -26,7 +26,7 @@ metadata:
     stack.appsody.dev/id: java-spring-boot2
     stack.appsody.dev/version: 0.3.30
   name: appsodytest
-  namespace: apptest
+  namespace: kabanero
 spec:
   applicationImage: khairulhabib/appsodytest
   createKnativeService: false
